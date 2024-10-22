@@ -1,2 +1,4 @@
 # Power_Defect_Detection
-lwda
+download "best.pt"
+
+
